@@ -3,3 +3,7 @@ venv/
 __pycache__/
 *.pyc
 .env
+# Legacy model artifacts
+random_forest_model.pkl
+shap_api_test_result.json
+shap_waterfall_541.png
